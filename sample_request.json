@@ -1,0 +1,13 @@
+{
+  "course_name": "Advanced Django & REST APIs",
+  "issuer_name": "Acme Academy",
+  "issue_date": "2026-10-01",
+  "description": "Awarded for completing 40 hours of hands-on training.",
+  "recipients": [
+    {"name": "Alice Smith", "email": "alice@example.com"},
+    {"name": "Bob Jones", "email": "bob@example.com"},
+    {"name": "Carol White", "email": "not-an-email"},
+    {"name": "", "email": "dave@example.com"},
+    {"name": "Erin Brown", "email": "erin@example.com"}
+  ]
+}
